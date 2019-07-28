@@ -1,0 +1,2 @@
+# awssns
+SNS notification service
